@@ -1,0 +1,59 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"telefono": {
+					"_tipo": "celular",
+					"_area": "+503",
+					"__text": "71563248"
+				},
+				"email": {
+					"_tipo": "correo electronico",
+					"__text": "Antonio@ues.edu.sv"
+				},
+				"PersonalWeb": {
+					"_redirect": "true",
+					"__text": "compasPantajo.com"
+				},
+				"_id": "2",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"dui": "0174568932-0",
+				"isss": "6565.655-0",
+				"afp": {
+					"_tipo": "aff Crecer",
+					"__text": "031245.66"
+				},
+				"direccion": "Calle de Los Andes, 45",
+				"telefono": {
+					"_tipo": "celular",
+					"_area": "+503",
+					"__text": "71563248"
+				},
+				"email": {
+					"_tipo": "correo electronico",
+					"__text": "Antonio@ues.edu.sv"
+				},
+				"PersonalWeb": {
+					"_redirect": "true",
+					"__text": "compasPantajo.com"
+				},
+				"_id": "3",
+				"_fechaingreso": "1/11/2012"
+			}
+		]
+	}
+}

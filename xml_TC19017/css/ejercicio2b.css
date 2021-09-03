@@ -1,0 +1,61 @@
+pais{
+    background-color: aliceblue;
+    display: block;
+}
+
+departamento{
+    margin: 20px;
+    padding: 30px;
+    background-color: burlywood;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    display: block;
+    border-radius: 50px;
+    box-shadow: black 5px 5px 6px
+}
+
+cabecera{
+    background-color: cadetblue;
+}
+
+habitantes{
+    background-color: cadetblue;
+}
+
+altura{
+    background-color: cadetblue;
+}
+
+idiomas{
+    display: block;
+    background-color: cadetblue;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+idiomas idioma{
+    display: block;
+    color: white;
+}
+area{
+    background-color: cadetblue;
+}
+
+moneda{
+    background-color: cadetblue;
+}  
+
+codigoTelefonico{
+    background-color: cadetblue;
+}
+
+continente{
+    background-color: cadetblue;
+}
+
+apodo{
+    background-color: cadetblue;
+}

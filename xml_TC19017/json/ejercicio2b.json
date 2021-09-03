@@ -1,0 +1,75 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": "72,951",
+				"altura": "220 MSNM",
+				"idiomas": {
+					"idioma": [
+						{
+							"_nivel": "1",
+							"__text": "Español"
+						},
+						{
+							"_nivel": "0",
+							"_tipo": "nativo",
+							"__text": "Nahuatl"
+						}
+					]
+				},
+				"area": "232.5 km^2",
+				"_id": "2",
+				"_nombre": "Sonsonate"
+			},
+			{
+				"cabecera": "Chalatenango",
+				"habitantes": "29,271",
+				"idiomas": {
+					"idioma": {
+						"_nivel": "1",
+						"__text": "Español"
+					}
+				},
+				"area": "131.8 km^2",
+				"_id": "3",
+				"_nombre": "Chalatenango"
+			}
+		],
+		"moneda": "Dolar Americano",
+		"codigoTelefonico": {
+			"_zona": "Centro America",
+			"__text": "+503"
+		},
+		"idiomas": {
+			"idioma": [
+				{
+					"_nivel": "1",
+					"__text": "Español"
+				},
+				{
+					"_nivel": "2",
+					"__text": "Ingles"
+				},
+				{
+					"_nivel": "0",
+					"_tipo": "nativo",
+					"__text": "Nahuatl"
+				}
+			]
+		},
+		"continente": {
+			"_subContinente": "Central",
+			"__text": "America"
+		},
+		"apodo": "El pulgarcito de las Americas",
+		"_nombre": "El Salvador"
+	}
+}

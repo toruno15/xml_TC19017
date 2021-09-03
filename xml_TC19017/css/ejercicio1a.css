@@ -1,0 +1,36 @@
+ficha{
+    background-color: antiquewhite;
+    margin: 15px;
+    padding: 10px;
+    display: block;
+}
+nombre{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+apellido{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+direccion{
+    color: aqua;
+    font-size: larger;
+}
+telefono{
+    background-color: aqua;
+    color: black;
+    display: inline;
+}
+email{
+    display: block;
+    background-color: aqua;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px;
+}
+PersonalWeb{
+    margin: 15px;
+    background-color: aquamarine;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

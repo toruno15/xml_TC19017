@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio2a.css" ?>
+
+<!-- ejemplo2.xml  TC19017 -->
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+
+  <departamento id="2" nombre="Sonsonate">
+    <cabecera>Sonsonate</cabecera>
+    <habitantes>72,951</habitantes>
+    <altura>220 MSNM</altura>
+    <idiomas>
+      <idioma nivel="1">Español</idioma>
+      <idioma nivel="0" tipo="nativo">Nahuatl</idioma>
+    </idiomas>
+    <area>232.5 km^2</area>
+  </departamento>
+  
+  <moneda>Dolar Americano</moneda>
+  <codigoTelefonico zona="Centro America">+503</codigoTelefonico>
+    
+  <idiomas>
+    <idioma nivel="1">Español</idioma>
+    <idioma nivel="2">Ingles</idioma>
+    <idioma nivel="0" tipo="nativo">Nahuatl</idioma>  
+  </idiomas>
+
+</pais>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio1b.css" ?>
+
+<fichero>
+
+<!---->
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<!--Ficha 2-->
+<ficha id="2" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+<telefono tipo="celular" area="+503">71563248</telefono>
+<email tipo="correo electronico">Antonio@ues.edu.sv</email>
+<PersonalWeb redirect="true">compasPantajo.com</PersonalWeb>
+</ficha>
+
+<!--Ficha 2-->
+<ficha id="3" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<dui>0174568932-0</dui>
+<isss>6565.655-0</isss>
+<afp tipo="aff Crecer">031245.66</afp>
+<direccion>Calle de Los Andes, 45</direccion>
+<telefono tipo="celular" area="+503">71563248</telefono>
+<email tipo="correo electronico">Antonio@ues.edu.sv</email>
+<PersonalWeb redirect="true">compasPantajo.com</PersonalWeb>
+</ficha>
+
+</fichero>

@@ -1,0 +1,35 @@
+pais{
+    background-color: white;
+}
+departamento{
+    display: block;
+    margin: 30px;
+    padding: 15px;
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+departamento cabecera{
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-shadow: black;
+}
+
+departamento abitantes{
+    display: block;
+    color: white;
+    font-size: 20px;
+}
+
+departamento altura{
+    color: white;
+    font-size: 20px;
+    display: inline;
+    margin: 10px;
+}
